@@ -41,7 +41,7 @@ export default class ChowChow {
         external: false,
       },
       dereference: {
-        circular: false,
+        circular: true,
       },
     });
 
